@@ -1,0 +1,17 @@
+{
+  "name": "la-fallera-calavera",
+  "version": "1.0.0",
+  "description": "Kata de La Fallera Calavera: https://katayuno-app.herokuapp.com/katas/17",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "@vibaiher",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.3",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
